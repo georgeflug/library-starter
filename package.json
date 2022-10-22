@@ -1,0 +1,19 @@
+{
+  "name": "library-starter",
+  "version": "1.0.0",
+  "description": "Starter Repo for my projects",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgeflug/library-starter.git"
+  },
+  "author": "Richard White <georgeflug@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/georgeflug/library-starter/issues"
+  },
+  "homepage": "https://github.com/georgeflug/library-starter#readme"
+}
