@@ -1,5 +1,5 @@
 {
-  "name": "library-starter",
+  "name": "@georgeflug/library-starter",
   "version": "1.0.0",
   "description": "Starter Repo for my projects",
   "main": "dist/index.js",

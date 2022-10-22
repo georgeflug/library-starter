@@ -7,7 +7,8 @@ Starter Repo for my projects
 2. Replace all instances of "library-starter" with the new project's name.
 3. Update this README.
 4. Run `git remote set-url origin git@github.com:georgeflug/${new-project-name}.git`
-5. Push changes to Github to publish the first version.
+5. Add NPM_TOKEN variable to the new repo's Secrets settings page.
+6. Push changes to Github to publish the first version.
 
 ## Bumping the version
 
