@@ -16,7 +16,7 @@ jobs:
     strategy:
       matrix:
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
-        node-version: [16.x, 18.x, 20.x]
+        node-version: [16.x, 18.x]
 
     steps:
       # https://github.com/marketplace/actions/checkout
@@ -52,7 +52,7 @@ jobs:
       # https://github.com/marketplace/actions/setup-node-js-environment
       - uses: actions/setup-node@v3
         with:
-          node-version: 16
+          node-version: 18
           registry-url: 'https://registry.npmjs.org'
 
       - run: npm ci
