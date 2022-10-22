@@ -2,9 +2,10 @@
   "name": "library-starter",
   "version": "1.0.0",
   "description": "Starter Repo for my projects",
-  "main": "src/index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "start": "node src/index"
+    "start": "tsc && node dist/index"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/georgeflug/library-starter/issues"
   },
-  "homepage": "https://github.com/georgeflug/library-starter#readme"
+  "files": [
+    "/dist"
+  ],
+  "homepage": "https://github.com/georgeflug/library-starter#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
 }
