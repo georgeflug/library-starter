@@ -25,6 +25,9 @@
   "files": [
     "/dist"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "homepage": "https://github.com/georgeflug/library-starter#readme",
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
