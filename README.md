@@ -4,9 +4,9 @@ Starter Repo for my projects
 ## Instructions
 
 1. Clone this repo: `git clone git@github.com:georgeflug/async-array.git [new-project-name]`
-2. Replace all instances of "library-starter" with the new project's name.
-3. Update this README.
-4. Delete `CHANGELOG.md` and `package-lock.json`
+2. Delete `CHANGELOG.md` and `package-lock.json`
+3. Replace all instances of "library-starter" with the new project's name.
+4. Update this README.
 5. Reset the version in package.json to 1.0.0.
 6. Run `npm install`
 7. Run `git remote set-url origin git@github.com:georgeflug/${new-project-name}.git`
