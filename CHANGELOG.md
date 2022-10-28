@@ -1,5 +1,12 @@
 
 
+# [1.2.0](https://github.com/georgeflug/library-starter/compare/1.1.0...1.2.0) (2022-10-28)
+
+
+### Features
+
+* more instructions for the readme ([c729881](https://github.com/georgeflug/library-starter/commit/c729881d39d690ef9c08b3804c2b425db555f305))
+
 # 1.1.0 (2022-10-22)
 
 
